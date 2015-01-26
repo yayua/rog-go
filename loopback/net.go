@@ -1,7 +1,7 @@
 package loopback
 
 import (
-	"github.com/zengbo/rog-go/fakenet"
+	"github.com/yayua/rog-go/fakenet"
 	"io"
 	"net"
 )

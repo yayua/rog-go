@@ -2,8 +2,8 @@ package main
 
 import (
 	"code.google.com/p/freetype-go/freetype/raster"
-	"github.com/zengbo/rog-go/canvas"
-	"github.com/zengbo/rog-go/values"
+	"github.com/yayua/rog-go/canvas"
+	"github.com/yayua/rog-go/values"
 	"exp/draw"
 	"exp/draw/x11"
 	"fmt"

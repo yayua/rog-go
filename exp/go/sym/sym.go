@@ -4,11 +4,11 @@ package sym
 
 import (
 	"bytes"
-	"github.com/zengbo/rog-go/exp/go/ast"
-	"github.com/zengbo/rog-go/exp/go/parser"
-	"github.com/zengbo/rog-go/exp/go/printer"
-	"github.com/zengbo/rog-go/exp/go/token"
-	"github.com/zengbo/rog-go/exp/go/types"
+	"github.com/yayua/rog-go/exp/go/ast"
+	"github.com/yayua/rog-go/exp/go/parser"
+	"github.com/yayua/rog-go/exp/go/printer"
+	"github.com/yayua/rog-go/exp/go/token"
+	"github.com/yayua/rog-go/exp/go/types"
 	"fmt"
 	"go/build"
 	"io/ioutil"

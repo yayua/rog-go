@@ -1,8 +1,8 @@
 package main
 
 import (
-	g9p "github.com/zengbo/rog-go/new9p"
-	g9pc "github.com/zengbo/rog-go/new9p/client"
+	g9p "github.com/yayua/rog-go/new9p"
+	g9pc "github.com/yayua/rog-go/new9p/client"
 	"flag"
 	"fmt"
 	"io"

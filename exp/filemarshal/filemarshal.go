@@ -2,7 +2,7 @@
 package filemarshal
 
 import (
-	"github.com/zengbo/rog-go/typeapply"
+	"github.com/yayua/rog-go/typeapply"
 	"errors"
 	"io"
 	"io/ioutil"

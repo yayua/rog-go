@@ -2,8 +2,8 @@ package main
 
 import (
 	"code.google.com/p/freetype-go/freetype/truetype"
-	"github.com/zengbo/rog-go/canvas"
-	"github.com/zengbo/rog-go/values"
+	"github.com/yayua/rog-go/canvas"
+	"github.com/yayua/rog-go/values"
 	"code.google.com/p/x-go-binding/ui"
 	"code.google.com/p/x-go-binding/ui/x11"
 	"fmt"

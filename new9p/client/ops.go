@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 	//"log"
-	plan9 "github.com/zengbo/rog-go/new9p"
-	"github.com/zengbo/rog-go/new9p/seq"
+	plan9 "github.com/yayua/rog-go/new9p"
+	"github.com/yayua/rog-go/new9p/seq"
 	"container/list"
 )
 

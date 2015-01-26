@@ -7,7 +7,7 @@
 package g9pc
 
 import (
-	"github.com/zengbo/rog-go/go9p/g9p"
+	"github.com/yayua/rog-go/go9p/g9p"
 	"errors"
 	"fmt"
 	"io"

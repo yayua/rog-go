@@ -7,8 +7,8 @@
 package ast
 
 import (
-	"github.com/zengbo/rog-go/exp/go/scanner"
-	"github.com/zengbo/rog-go/exp/go/token"
+	"github.com/yayua/rog-go/exp/go/scanner"
+	"github.com/yayua/rog-go/exp/go/token"
 	"fmt"
 	"strconv"
 )

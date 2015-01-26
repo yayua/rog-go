@@ -4,7 +4,7 @@
 
 package g9pc
 
-import "github.com/zengbo/rog-go/go9p/g9p"
+import "github.com/yayua/rog-go/go9p/g9p"
 
 // Reads count bytes starting from offset from the file associated with the fid.
 // Returns a slice with the data read, if the operation was successful, or an

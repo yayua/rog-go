@@ -34,7 +34,7 @@ func init() {
 //	//	callback = c;
 //	//}
 //     import "C"
-//	import "github.com/zengbo/rog-go/exp/callback"
+//	import "github.com/yayua/rog-go/exp/callback"
 //	
 //	func init() {
 //		C.setCallback(callback.Func)

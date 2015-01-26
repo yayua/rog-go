@@ -17,7 +17,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/zengbo/rog-go/ncrpc"
+	"github.com/yayua/rog-go/ncrpc"
 	"errors"
 	"flag"
 	"fmt"

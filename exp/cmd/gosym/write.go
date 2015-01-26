@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/zengbo/rog-go/exp/go/ast"
-	"github.com/zengbo/rog-go/exp/go/sym"
-	"github.com/zengbo/rog-go/exp/go/token"
+	"github.com/yayua/rog-go/exp/go/ast"
+	"github.com/yayua/rog-go/exp/go/sym"
+	"github.com/yayua/rog-go/exp/go/token"
 	"fmt"
 	"log"
 )

@@ -4,7 +4,7 @@
 
 package ast
 
-import "github.com/zengbo/rog-go/exp/go/token"
+import "github.com/yayua/rog-go/exp/go/token"
 
 // ----------------------------------------------------------------------------
 // Export filtering

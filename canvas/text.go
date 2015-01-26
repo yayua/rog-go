@@ -4,7 +4,7 @@ import (
 	"code.google.com/p/freetype-go/freetype"
 	"code.google.com/p/freetype-go/freetype/raster"
 	"code.google.com/p/freetype-go/freetype/truetype"
-	"github.com/zengbo/rog-go/values"
+	"github.com/yayua/rog-go/values"
 	"image"
 	"image/draw"
 )

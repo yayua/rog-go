@@ -4,7 +4,7 @@
 
 package g9pc
 
-import "github.com/zengbo/rog-go/go9p/g9p"
+import "github.com/yayua/rog-go/go9p/g9p"
 
 // Removes the file associated with the Fid. Returns nil if the
 // operation is successful.

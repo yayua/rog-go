@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/zengbo/rog-go/new9p/seq"
+	"github.com/yayua/rog-go/new9p/seq"
 	"container/list"
 	"io"
 	"log"

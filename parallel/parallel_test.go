@@ -1,7 +1,7 @@
 package parallel_test
 
 import (
-	"github.com/zengbo/rog-go/parallel"
+	"github.com/yayua/rog-go/parallel"
 	"sort"
 	"sync"
 	"testing"

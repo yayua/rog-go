@@ -4,7 +4,7 @@
 
 package g9pc
 
-import "github.com/zengbo/rog-go/go9p/g9p"
+import "github.com/yayua/rog-go/go9p/g9p"
 
 // Returns the metadata for the file associated with the Fid, or an Error.
 func (clnt *Client) Stat(fid *Fid) (*g9p.Dir, error) {

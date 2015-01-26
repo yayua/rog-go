@@ -1,7 +1,7 @@
 package seq
 
 import (
-	plan9 "github.com/zengbo/rog-go/new9p"
+	plan9 "github.com/yayua/rog-go/new9p"
 	"errors"
 )
 

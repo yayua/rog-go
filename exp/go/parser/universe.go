@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/zengbo/rog-go/exp/go/ast"
+import "github.com/yayua/rog-go/exp/go/ast"
 
 var Universe = ast.NewScope(nil)
 

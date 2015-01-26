@@ -4,9 +4,9 @@ package main
 
 import (
 	"bufio"
-	g9p "github.com/zengbo/rog-go/new9p"
-	g9pc "github.com/zengbo/rog-go/new9p/client"
-	"github.com/zengbo/rog-go/new9p/seq"
+	g9p "github.com/yayua/rog-go/new9p"
+	g9pc "github.com/yayua/rog-go/new9p/client"
+	"github.com/yayua/rog-go/new9p/seq"
 	"flag"
 	"fmt"
 	"io"

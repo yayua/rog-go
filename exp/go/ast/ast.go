@@ -8,7 +8,7 @@
 package ast
 
 import (
-	"github.com/zengbo/rog-go/exp/go/token"
+	"github.com/yayua/rog-go/exp/go/token"
 	"unicode"
 	"unicode/utf8"
 )
